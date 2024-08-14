@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+GitPython
+pydantic
+python-multipart

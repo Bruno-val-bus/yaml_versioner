@@ -1,0 +1,15 @@
+# sample.yaml
+name: ExampleProject
+version: 1.0.0
+description: This is a sample YAML file for testing.
+dependencies:
+  - name: library1
+    version: 2.3.4
+  - name: library2
+    version: 1.2.0
+configuration:
+  setting1: true
+  setting2: false
+  parameters:
+    - param1: value1
+    - param2: value2
